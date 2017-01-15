@@ -1,6 +1,6 @@
-# eslint-plugin-syntax
+# eslint-plugin-luddite
 
-eslint plugin to disallow specific ES2015+ syntax
+eslint plugin to disallow specific ES2015+ syntax and methods
 
 ## rules
 
